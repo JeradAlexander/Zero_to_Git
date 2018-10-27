@@ -1,4 +1,4 @@
-##  GIT Commands 
+# GIT Commands 
 
 one time commands
 
@@ -9,7 +9,7 @@ git config --global user.email jeradalex@gmail.com
 
 ```
 
-use ince when starting a git repo
+use once when starting a git repo
 
 ```shell
 git init
